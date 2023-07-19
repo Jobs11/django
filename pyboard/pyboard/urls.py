@@ -23,4 +23,5 @@ urlpatterns = [
     path("list/", views.list),
     path("register/", views.register),
     path("insert/", views.insert),
+    path("download/", views.download),
 ]
